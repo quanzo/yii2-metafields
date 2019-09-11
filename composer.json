@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "x51\\yii2\\classes\\metafields\\": ""
+            "x51\\yii2\\modules\\metafields\\": ""
         }
     }
 }
